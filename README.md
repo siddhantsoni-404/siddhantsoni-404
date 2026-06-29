@@ -3,7 +3,7 @@
 -->
 # Hi, I'm Siddhant Soni 👋
 
-![Loading](gif.gif)
+![Loading](gif2.gif)
 
 
 💻 2nd Year BTech CSE Student

@@ -22,3 +22,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=siddhantsoni-404&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Create+%E2%80%A2+Execute+%E2%80%A2+Repeat" />
+</p>
